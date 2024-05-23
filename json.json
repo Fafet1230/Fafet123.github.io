@@ -1,0 +1,96 @@
+{
+    "00001" : {
+        "name":"Видеокарта ASUS GeForce RTX 4060 Ti Dual OC Edition",
+        "cost" : 16000,
+        "image" : "image/rtx4060.jpg"
+    },
+
+    "00002" : {
+        "name":"Процессор Ryzen 7 5700G",
+        "cost" : 29000,
+        "image" : "image/R7.jpg"
+    },
+    
+    "00003" : {
+        "name":"Видеокарта GIGABYTE AMD Radeon RX 6900",
+        "cost" : 40000,
+        "image" : "image/radion.jpg"
+    },
+
+    "00004" : {
+        "name":"Процессор i7-10700K",
+        "cost" : 32000,
+        "image" : "image/i7.jpg"
+    },
+    
+    "00005" : {
+        "name":"HHD 1TB WD Blue",
+        "cost" : 3000,
+        "image" : "image/1tb.jpg"
+    },
+
+    "00006" : {
+        "name":"HHD 2TB WD Blue",
+        "cost" : 4000,
+        "image" : "image/2TB.jpg"
+    },
+
+    "00007" : {
+        "name":"Блок питания Cougar GEC 650w",
+        "cost" : 666,
+        "image" : "image/650.jpg"
+    },
+
+    "00008" : {
+        "name":"Блок питания MONTECH GAMMA II 650w",
+        "cost" : 777,
+        "image" : "image/GAMMA.jpg"
+    },
+    "00009" : {
+        "name":"Корпус ARDOR GAMING Rare Minicase MS3 WG белый",
+        "cost" : 4500,
+        "image" : "image/white.jpg"
+    },
+
+    "00010" : {
+        "name":"Корпус AeroCool Bolt Mini черный",
+        "cost" : 3900,
+        "image" : "image/black.jpg"
+    },
+
+    "00011" : {
+        "name":"Материнская плата Gigabyte A520M DS3H V2",
+        "cost" : 15000,
+        "image" : "image/v2.jpg"
+    },
+
+    "00012" : {
+        "name":"Материнская плата H510M-HVS ASRock H510m/hvs",
+        "cost" : 13000,
+        "image" : "image/hvs.jpg"
+    },
+
+    "00013" : {
+        "name":"Оперативная память XPG Gammix D10 32 ГБ",
+        "cost" : 8900,
+        "image" : "image/32ГБ.jpg"
+    },
+
+    "00014" : {
+        "name":"Оперативная память Patriot Viper Elite II 16ГБ",
+        "cost" : 6900,
+        "image" : "image/Viper.jpg"
+    },
+
+    "000015" : {
+        "name":"Кулер для процессора ID-COOLING SE-224-XTS ARGB",
+        "cost" : 2400,
+        "image" : "image/1.jpg"
+    },
+
+    "00016" : {
+        "name":"Кулер для процессора DEEPCOOL AG300",
+        "cost" : 1900,
+        "image" : "image/Z.jpg"
+    }
+}
